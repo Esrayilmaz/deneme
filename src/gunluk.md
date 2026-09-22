@@ -6,3 +6,8 @@
 - Terminal öğrenildi
 - Git kuruldu, GitHub'a bağlanıldı, ilk push yapıldı
 - Takılınan yer: GitHub authentication (token/tarayıcı girişi)
+- ## Gün 2
+- değişkenler operatörler anlatıldı
+- scanner ile klavyeden girişler anlatıldı
+- mantıksal işlemler yapıldı
+- 5 mini uygulama yapıldı
